@@ -1702,7 +1702,6 @@ You can find important links mentioned in the YouTube video below:
 - <a href="https://jb.gg/JSMastery" target="_blank">Download FREE WebStorm</a>
 - <a href="https://neon.tech/" target="_blank">Serverless NeonDB</a>
 - <a href="https://go.clerk.com/DtiSBEI" target="_blank">Clerk Auth</a>
-- <a href="https://courses.jsmastery.pro/course/databases" target="_blank">Database Mastery Course</a>
 - <a href="https://clerk.com/docs/quickstarts/expo" target="_blank">Clerk Expo Quickstart</a>
 - <a href="https://clerk.com/docs/custom-flows/oauth-connections" target="_blank">Clerk Expo OAuth</a>
 - <a href="https://www.geoapify.com/" target="_blank">Geoapify Map</a>
@@ -1715,12 +1714,4 @@ You can find important links mentioned in the YouTube video below:
 Assets used in the project can be
 found [here](https://drive.google.com/file/d/1ekttG-aCyy4g0SKqLSrEn_uHf2MJMRJ4/view?usp=sharing)
 
-## <a name="more">🚀 More</a>
 
-**Advance your skills with Next.js Pro Course**
-
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning experience. They're packed with detailed explanations, cool features, and exercises to boost your skills. Give it a go!
-
-<a href="https://www.jsmastery.pro/ultimate-next-course" target="_blank">
-<img src="https://i.ibb.co/804sPK6/Image-720.png" alt="Project Banner">
-</a>
